@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    width: 100%;
+    background-color: #35A09F;
+    height: 10vh;    
+    margin: 0 auto; 
+    margin-bottom: 2.5em;   
+}
+
+.logo {
+    padding: 15px;
+    text-align: center;
+}
+
+.card-container {
+    background-color: #35A09F;
+    max-width: 800px;
+    height: 50vh;
+    margin: 0 auto;    
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px;
+}
+
+.subtitle {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    margin-bottom: 1.0em;
+}
+
+.card-month{
+    display: flex; 
+}
+
+.card-month h2 {    
+    align-content: center;
+    color: white;
+}
+
+.card-month button {
+   margin: 0 auto;
+   padding: 10px;
+   border: none;
+   border-radius: 5px;
+}
+
+.card-day {
+    
+}
+
+
+
+
+
